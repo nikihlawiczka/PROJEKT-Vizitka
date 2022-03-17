@@ -42,19 +42,20 @@ h1 {
 p {
     margin-top: 0;
     margin-bottom: 30px;
+    text-align: justify;
 }
 
-img {
+.fotoelisky {
     border: 3px solid white;
     width: 150px;
     border-radius: 50%;
     position: absolute;
     top: -75px;
     right: -75px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 30px 0px;
 }
 
-a {
+.tlacitko {
     display: block;
     color: white;
     text-align: center;
@@ -69,16 +70,18 @@ a {
     background-color: #1da1f2;
     margin-bottom: 5px;
 }
-    .twitter:hover {
-        background-color: #0b7bc1;
-    }
+
+.twitter:hover {
+background-color: #0b7bc1;
+}
 
 
 .facebook {
     background-color: #3b5998;
 }
-    .facebook:hover {
-        background-color: #2b406e;
-    }
+
+.facebook:hover {
+    background-color: #2b406e;
+}
 
 
